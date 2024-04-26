@@ -1,7 +1,7 @@
 ### Hi there, I'm Davi Souza👋
 ![Profile Views](https://komarev.com/ghpvc/?username=KingDev-code&color=blueviolet)
 
-I'm a passionate developer from [Your Location/Country] interested in studying and learning languages. I have a deep love for programming and creating new software because the idea of building something that can solve real-world problems is incredibly exciting to me!
+I'm a passionate developer from Brazil interested in studying and learning languages. I have a deep love for programming and creating new software because the idea of building something that can solve real-world problems is incredibly exciting to me!
 
 🌱 I’m currently learning:
 - Python at university
